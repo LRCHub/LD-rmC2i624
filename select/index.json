@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ugly",
+  "base_artist": "2NE1",
+  "createdAt": "2026-03-15T06:42:22.051402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ugly Faces",
+      "artist": "John Moreland",
+      "has_synced": true,
+      "path": "select/01_Ugly_Faces_John_Moreland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ugly Woman",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/02_Ugly_Woman_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're the Reason Our Kids Are Ugly",
+      "artist": "Loretta Lynn feat. Conway Twitty",
+      "has_synced": false,
+      "path": "select/03_You're_the_Reason_Our_Kids_Are_Ugly_Loretta_Lynn_feat._Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're The Reason Our Kids Are Ugly (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/04_You're_The_Reason_Our_Kids_Are_Ugly_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ugly Boy",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/05_Ugly_Boy_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ugly as Fuck",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/06_Ugly_as_Fuck_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Ugly",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/07_Get_Ugly_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ugly Face",
+      "artist": "Nina Nastasia",
+      "has_synced": true,
+      "path": "select/08_Ugly_Face_Nina_Nastasia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From the Ugly",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/09_From_the_Ugly_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ugly",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/10_Ugly_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ugly (live)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/11_Ugly_(live)_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ugly Man",
+      "artist": "Gino Vannelli",
+      "has_synced": true,
+      "path": "select/12_Ugly_Man_Gino_Vannelli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Personality (Ugly mix)",
+      "artist": "20 Fingers feat. Gillette",
+      "has_synced": false,
+      "path": "select/13_Mr._Personality_(Ugly_mix)_20_Fingers_feat._Gillette.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr. Personality (feat. Gillette) (Ugly Mix)",
+      "artist": "20 Fingers",
+      "has_synced": false,
+      "path": "select/14_Mr._Personality_(feat._Gillette)_(Ugly_Mix)_20_Fingers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Personality (Ugly Underground mix)",
+      "artist": "20 Fingers feat. Gillette",
+      "has_synced": false,
+      "path": "select/15_Mr._Personality_(Ugly_Underground_mix)_20_Fingers_feat._Gillette.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mr. Personality (feat. Gillette) (Ugly Underground Mix)",
+      "artist": "20 Fingers",
+      "has_synced": false,
+      "path": "select/16_Mr._Personality_(feat._Gillette)_(Ugly_Underground_Mix)_20_Fingers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UGLY",
+      "artist": "2NE1",
+      "has_synced": false,
+      "path": "select/pl_01_UGLY_2NE1.txt"
+    }
+  ]
+}
